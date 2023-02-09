@@ -4,10 +4,8 @@ We have 4 bots at this exact moment and time
 Yoshino
 
 <h3>2.General bots:</h3>
-Chifuyu
-
+Chifuyu<br>
 Yuu-Otosaka
-
 Shadow-Untold
 
 
