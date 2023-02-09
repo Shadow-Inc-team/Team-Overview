@@ -1,5 +1,3 @@
-<html>
 <h1>Empty-Sama: the founder of Shadow.Inc</h1>
 
 Developer of Shadow bot and Shadow.Inc groups
-</html>
