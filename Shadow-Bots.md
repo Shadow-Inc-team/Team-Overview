@@ -7,7 +7,6 @@ Yoshino
 Chifuyu
 
 Yuu-Otosaka
-
 Shadow-Untold
 
 
