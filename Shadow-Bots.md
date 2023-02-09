@@ -1,9 +1,9 @@
 We have 4 bots at this exact moment and time
 
-1.Shadow-Gamebots:
+<h3>1.Shadow-Gamebots:</h3>
 Yoshino
 
-2.General bots:
+<h3>2.General bots:</h3>
 Chifuyu
 Yuu-Otosaka
 Shadow-Untold
