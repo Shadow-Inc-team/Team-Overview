@@ -1,7 +1,7 @@
 # Shadow.Inc
 
 <p align="center">
-<img src="https://telegra.ph/file/8060de2034a54c83cbd83.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/8060de2034a54c83cbd83.jpg" alt="nz" width="450"/>
 </p>
 
 <h2>Welcome To Shadow.Inc</h2>
@@ -21,3 +21,10 @@ Where you can get help about Shadow.Inc
 <button>https://chat.whatsapp.com/IbJZdzO3Ht82Ke9AHWfTQm</button>
 
 Mainly for bot use and gambling(NOTE: No real money is used)
+
+<h3>Official team</h3>
+<h4>Members</h4>
+Empty-Sama
+Takashi Thugxic
+
+(Botadmins are only part of bot group don't bother them about business related info they are there solely for help with bots) 
