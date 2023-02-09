@@ -5,3 +5,7 @@
 </p>
 
 <h2>Welcome To Shadow.Inc</h2>
+Just A team of coders helping businesses and people
+
+<h3>Our Whatsapp Anime chatbot</h3>
+
