@@ -5,8 +5,11 @@ Yoshino
 
 <h3>2.General bots:</h3>
 Chifuyu
+
 Yuu-Otosaka
+
 Shadow-Untold
+
 
 General bots open to public and joins group plus 24/7 on (well we try atleast)
 
