@@ -13,11 +13,11 @@ We have 4 bots at the moment.
 Join our support group or Casino for more info
 
 <h4>Shadow support</h4>
-https://chat.whatsapp.com/CfLxMZfD9kt8Fdx4ppg2oD
+<button>https://chat.whatsapp.com/CfLxMZfD9kt8Fdx4ppg2oD</button>
 
 Where you can get help about Shadow.Inc
 
 <h4>Shadow Casino</h4>
-https://chat.whatsapp.com/IbJZdzO3Ht82Ke9AHWfTQm
+<button>https://chat.whatsapp.com/IbJZdzO3Ht82Ke9AHWfTQm</button>
 
 Mainly for bot use and gambling(NOTE: No real money is used)
