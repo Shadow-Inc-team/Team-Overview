@@ -5,7 +5,7 @@ Yoshino
 
 <h3>2.General bots:</h3>
 Chifuyu<br>
-Yuu-Otosaka
+Yuu-Otosaka<br>
 Shadow-Untold
 
 
